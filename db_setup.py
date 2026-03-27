@@ -4,10 +4,10 @@ from flask_bcrypt import Bcrypt
 
 # Cấu hình cơ sở dữ liệu
 DB_CONFIG = {
-    'host': 'yamanote.proxy.rlwy.net',
-    'port': 54128,
+    'host': 'gondola.proxy.rlwy.net',
+    'port': 50552,
     'user': 'root',
-    'password': 'SVyNbouKaAvkyBCwbUBSHLLmcZjfPvif',
+    'password': 'HrBftFMPsfCQnLAdErhlhgVThmNrQgbj',
     'database': 'railway'
 }
 
